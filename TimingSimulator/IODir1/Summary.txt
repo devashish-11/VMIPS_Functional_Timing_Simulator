@@ -1,0 +1,19 @@
+================SUMMARY================
+Config1 248308
+Config2 248788
+Config3 249748
+Config4 335636
+Config5 248788
+Config6 248788
+Config7 248788
+Config8 248532
+Config9 248788
+Config10 248788
+Config11 248788
+Config12 248788
+Config13 248760
+Config14 248764
+Config15 248772
+Config16 248788
+Config17 248820
+======================================
